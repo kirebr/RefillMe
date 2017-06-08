@@ -1,6 +1,6 @@
 # RefillMe [![Build Status](https://travis-ci.org/adryanoalf/RefillMe.svg?branch=master)](https://travis-ci.org/adryanoalf/RefillMe)
 
-Refill Me é um aplicativo no qual os usuários podem verificar o preço do combustível de acordo com uma localidade selecionada.
+RefillMe é um aplicativo no qual os usuários podem verificar o preço do combustível de acordo com uma localidade selecionada.
 
 ## Obtendo o Projeto
 
@@ -8,6 +8,7 @@ Refill Me é um aplicativo no qual os usuários podem verificar o preço do comb
 
 ## Pré-Requisitos
 
+Celular com sistema operacional Android a partir da versão 4.4
 Conexão com a internet
 
 ## Execução dos Testes
@@ -16,7 +17,7 @@ To Do
 
 ## Construído com
 
-* [Android Studio](https://developer.android.com/studio/index.html?hl=pt-br) - IDE oficial Android
+* [Android Studio]v2.3.2 (April 2017)(https://developer.android.com/studio/index.html?hl=pt-br) - IDE oficial Android
 
 ## Estilo de Codificação
 
