@@ -17,7 +17,7 @@ To Do
 
 ## Construído com
 
-* [Android Studio]v2.3.2 (April 2017)(https://developer.android.com/studio/index.html?hl=pt-br) - IDE oficial Android
+* [Android Studio]v2.3.2 (https://developer.android.com/studio/index.html?hl=pt-br) - IDE oficial Android
 
 ## Estilo de Codificação
 
