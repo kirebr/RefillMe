@@ -1,11 +1,12 @@
 language: android
 android:
   components:
-    - build-tools-19.1.0
-    - android-21
+    - build-tools-25.0.3
+    - android-25
     - extra-google-google_play_services
     - extra-google-m2repository
     - extra-android-m2repository
-    - addon-google_apis-google-19
+    - addon-google_apis-google-25
+    - sys-img-armeabi-v7a-android-25
 before_install:
  - chmod +x gradlew
