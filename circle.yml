@@ -1,10 +1,15 @@
-machine:
-  environment:
-    QEMU_AUDIO_DRV: none
+ machine:
+  java:
+    version: oraclejdk8
 
-test:
-  pre:
-    - emulator -avd circleci-android24 -no-window:
-        background: true
-        parallel: true
-    - circle-android wait-for-boot
+ dependencies:
+  override:
+    - chmod +x gradlew
+    - ./gradlew dependencies
+ test:
+  override:
+    - chmod +x grailsw
+    - ./grailsw test-app --non-interactive
+  post:
+    - mkdir -p $CIRCLE_TEST_REPORTS/junit/
+    - find . -type f -regex ".*/target/test-reports/.*xml" -exec cp {} $CIRCLE_TEST_REPORTS/junit/ \;
