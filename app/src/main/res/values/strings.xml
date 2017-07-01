@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">RefillME</string>
+    <string name="app_name">Refill Me</string>
+    <string name="login_user">Entrar como usuário</string>
+    <string name="login_adm">Entrar como administrador</string>
 </resources>
