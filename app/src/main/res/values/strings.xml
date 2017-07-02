@@ -2,4 +2,25 @@
     <string name="app_name">Refill Me</string>
     <string name="login_user">Entrar como usuário</string>
     <string name="login_adm">Entrar como administrador</string>
+    <string name="back">Voltar</string>
+    <string name="search">Buscar postos</string>
+    <string name="search_location">Localização</string>
+    <string name="search_radius">Raio da busca</string>
+    <string name="search_fuel">Combustível</string>
+    <string name="search_gas">Gasolina</string>
+    <string name="search_gas_additive">Aditivada</string>
+    <string name="search_ethanol">Etanol</string>
+    <string name="search_diesel">Diesel</string>
+    <string name="search_ok">Buscar</string>
+    <string name="search_clean">Limpar campos</string>
+    <string name="search_goto">Abrir com o Maps</string>
+
+    <string-array name="search_radius_options">
+        <item>1 KM</item>
+        <item>3 KM</item>
+        <item>5 KM</item>
+        <item>10 KM</item>
+        <item>15 KM</item>
+    </string-array>
+
 </resources>
