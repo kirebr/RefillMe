@@ -14,6 +14,16 @@
     <string name="search_ok">Buscar</string>
     <string name="search_clean">Limpar campos</string>
     <string name="search_goto">Abrir com o Maps</string>
+    <string name="update_name">Nome</string>
+    <string name="update_address">Endereço</string>
+    <string name="update_gas_price">Preço gasolina</string>
+    <string name="update_gas_ad_price">Preço gasolina aditivada</string>
+    <string name="update_ethanol_price">Preço Etanol</string>
+    <string name="update_diesel_price">Preço diesel</string>
+    <string name="update_upload_picture">Carregar foto</string>
+    <string name="update_pick_location">Escolher localização</string>
+    <string name="update">Atualizar</string>
+    <string name="update_title">Atualizar posto</string>
 
     <string-array name="search_radius_options">
         <item>1 KM</item>
