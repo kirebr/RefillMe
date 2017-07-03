@@ -24,6 +24,8 @@
     <string name="update_pick_location">Escolher localização</string>
     <string name="update">Atualizar</string>
     <string name="update_title">Atualizar posto</string>
+    <string name="register">Cadastrar posto</string>
+    <string name="register_title">Cadastrar posto</string>
 
     <string-array name="search_radius_options">
         <item>1 KM</item>
